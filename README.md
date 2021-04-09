@@ -12,6 +12,6 @@ The home page shows the most recent articles for each programming language.
 
 The catalogue page shows all articles.
 
-The details page shows a view of an article and is provided with buttons "back", "edit" and "delete", however, only the creator of the relevant arcile can edit and delete it.
+The details page shows a view of an article and is provided with buttons "back", "edit" and "delete", however, only the creator of the relevant article can edit and delete it.
 
 The create page shows allows you to create more articles.
